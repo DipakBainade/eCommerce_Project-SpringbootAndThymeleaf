@@ -1,6 +1,6 @@
 My eCommerce Project - How to run
 
-
+(If project not working/importing in STS properly then - first import the project in STS then right click on project (in STS) then click on maven then maven update then select Force update of Snapshots/releases and click on ok to update project)
 1.Run the project. Run project in STS (spring tool suite).
 2.Access project on: http://localhost:8082
 3.There are to login options in project
